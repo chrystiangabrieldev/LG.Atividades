@@ -13,7 +13,7 @@ namespace LG.SA3.Servicos.Servicos
         {
             Random rnd = new Random();
 
-            Thread.Sleep(rnd.Next(0, 7000));
+            Thread.Sleep(rnd.Next(0, 700));
 
             return new List<AtividadesDto>() {
                 new AtividadesDto() { 
