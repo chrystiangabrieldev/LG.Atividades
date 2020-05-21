@@ -1,0 +1,12 @@
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\bin\Debug\netcoreapp3.1\LG.AA.Servicos.deps.json
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\bin\Debug\netcoreapp3.1\LG.AA.Servicos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\bin\Debug\netcoreapp3.1\LG.AA.Servicos.pdb
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\bin\Debug\netcoreapp3.1\LG.Atividades.Contratos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\bin\Debug\netcoreapp3.1\LG.Atividades.Contratos.pdb
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.csprojAssemblyReference.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.AssemblyInfoInputs.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.AssemblyInfo.cs
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.csproj.CopyComplete
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.AA.WebApi\LG.AA.Servicos\obj\Debug\netcoreapp3.1\LG.AA.Servicos.pdb

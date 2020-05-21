@@ -1,0 +1,12 @@
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\bin\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.deps.json
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\bin\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\bin\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.pdb
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\bin\Debug\netcoreapp3.1\Lg.MinhasAtividades.Contratos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\bin\Debug\netcoreapp3.1\Lg.MinhasAtividades.Contratos.pdb
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.csprojAssemblyReference.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.AssemblyInfoInputs.cache
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.AssemblyInfo.cs
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.csproj.CopyComplete
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.dll
+C:\Users\chrys\Documents\ProvaDeConceito\VueJs\api restful\LG.MinhasAtividades.WebApi\Lh.MinhasAtividades.Servicos\obj\Debug\netcoreapp3.1\LG.MinhasAtividades.Servicos.pdb

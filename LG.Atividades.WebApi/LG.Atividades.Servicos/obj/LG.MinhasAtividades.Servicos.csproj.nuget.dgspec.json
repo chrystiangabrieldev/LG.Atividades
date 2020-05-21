@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lh.MinhasAtividades.Servicos\\LG.MinhasAtividades.Servicos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\Lg.Atividades.Contratos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\Lg.Atividades.Contratos.csproj",
+        "projectName": "Lg.Atividades.Contratos",
+        "projectPath": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\Lg.Atividades.Contratos.csproj",
+        "packagesPath": "C:\\Users\\chrys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chrys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lh.MinhasAtividades.Servicos\\LG.MinhasAtividades.Servicos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lh.MinhasAtividades.Servicos\\LG.MinhasAtividades.Servicos.csproj",
+        "projectName": "LG.MinhasAtividades.Servicos",
+        "projectPath": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lh.MinhasAtividades.Servicos\\LG.MinhasAtividades.Servicos.csproj",
+        "packagesPath": "C:\\Users\\chrys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lh.MinhasAtividades.Servicos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chrys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\Lg.Atividades.Contratos.csproj": {
+                "projectPath": "C:\\Users\\chrys\\Documents\\ProvaDeConceito\\VueJs\\api restful\\LG.MinhasAtividades.WebApi\\Lg.MinhasAtividades.Contratos\\Lg.Atividades.Contratos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

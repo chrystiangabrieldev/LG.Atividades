@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LG.Atividades.Contratos">
+      <HintPath>..\..\LG.Atividades.WebApi\LG.Atividades.Contratos\bin\Debug\netcoreapp3.1\LG.Atividades.Contratos.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG.Workflow.WebApi", "LG.Workflow.WebApi\LG.Workflow.WebApi.csproj", "{B03DF76F-B547-4F5B-ADC0-799CFFE47793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG.Workflow.Servicos", "LG.Workflow.Servicos\LG.Workflow.Servicos.csproj", "{37FEEB59-B809-492F-ACB2-0D4A23B59087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03DF76F-B547-4F5B-ADC0-799CFFE47793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03DF76F-B547-4F5B-ADC0-799CFFE47793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03DF76F-B547-4F5B-ADC0-799CFFE47793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03DF76F-B547-4F5B-ADC0-799CFFE47793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FEEB59-B809-492F-ACB2-0D4A23B59087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FEEB59-B809-492F-ACB2-0D4A23B59087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FEEB59-B809-492F-ACB2-0D4A23B59087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FEEB59-B809-492F-ACB2-0D4A23B59087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9233AC-F733-4D88-A3A0-FD8B858AA14A}
+	EndGlobalSection
+EndGlobal
