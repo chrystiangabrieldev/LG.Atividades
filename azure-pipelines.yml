@@ -38,3 +38,4 @@ steps:
     command: 'publish'
     publishWebProjects: true
     arguments: '-o C:\Users\chrystiangabriel\Documents\Publicacao'
+- task: PublishBuildArtifacts@1
